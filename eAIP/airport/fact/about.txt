@@ -5,39 +5,7 @@
 More information available at [[https://en.wikipedia.org/wiki/Cape_Town_International_Airport|Wikipedia]].
 
 
-==== Aerodrome Data ====
-
-| ICAO                  | FACT |
-| IATA                  | CPT |
-| Elevation             | 151 ft |
-| Transition Altitude   | 7500 ft |
-| Transition Level      | by ATC |
-| Mag Variation         | 24º W |
-| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Cape_Town_International_Airport&params=33_58_10_S_018_35_50_E_region:ZA-WC_type:airport|33°58′10″S 018°35′50″E]] |
-| Site | [[https://www.airports.co.za/airports/cape-town-international-airport]] |
-
-
-==== Runways ====
-
-^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
-| 01     | 010º    | 3201     | 4172     | 3201     | 3201    | - |
-| 16     | 160º    | 1701     | 1701     | 1701     | 1701    | - |
-| 19     | 190º    | 3201     | 3544     | 3201     | 3201    | - |
-| 34     | 340º    | 1701     | 1701     | 1701     | 1701    | - |
-
-
-==== Aprons ====
-^ Apron              ^ Code ^ Stands   ^ Entry / Exit  ^ Remarks ^
-| Apron A            | -    | A3 - A17 | Twy A, B or E | - |
-| Apron B            | -    | B1 - B30 | Twy A, B or E | - |
-| Apron C            | -    | C1 - C5  | Twy A, B or E | - |
-| Apron F            | -    | F1 - F2  | Twy F | -     | - |
-| GA Apron           | -    | -        | Twy H | -     | - |
-| Apron Thunder City | -    | -        | Twy T | -     | - | 
-| FBO Apron          | -    | -        | Twy Z | -     | - |
-| SAAF Apron         | -    | -        | Twy G or D    | - |
-| SAA Freight Apron  | -    | -        | Twy S | -     | - |
-| SAA Technical Area | -    | -        | Twy J | -     | - |
+HELLLLOOOOOOOO
 
 ==== Positions & Frequencies ====
 
